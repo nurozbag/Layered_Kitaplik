@@ -1,2 +1,3 @@
 # Layered_Kitaplik
-Katmanlı mimari ile kütüphane uygulaması
+Katmanlı mimari ve veritabanı ile kütüphane uygulaması
+Kitap,yazar, kategori gibi bir çok alan eklenip-silinebilir.
